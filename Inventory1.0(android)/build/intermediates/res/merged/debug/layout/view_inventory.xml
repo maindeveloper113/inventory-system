@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/all_page_background">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/title_back_color"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:text="Home"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_back"
+                android:layout_marginLeft="10dp"
+                android:layout_centerVertical="true"
+                android:textColor="@color/btnall_text_color"
+                android:textSize="15dp"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/btn_upload_image" />
+
+            <EditText
+                android:text=""
+                android:hint="Search key"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/search"
+                android:layout_centerInParent="true"
+                android:textSize="15dp"
+                android:background="@color/title_back_color"/>
+
+            <Button
+                android:id="@+id/btn_search"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/btn_upload_image"
+                android:text="Search"
+                android:textColor="@color/btnall_text_color"
+                android:textSize="15dp"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/title_back_view" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/list_inventory" />
+    </LinearLayout>
+</LinearLayout>

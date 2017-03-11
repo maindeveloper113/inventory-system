@@ -1,0 +1,173 @@
+.homepage {
+
+  .welcome-top {
+	margin-bottom: 60px;
+	background-color: #F9F9F9;
+	padding: 2%;
+	border-bottom: 1px solid #EEE;
+	border-radius: 0 0 3px 3px;
+	.image-wrapper {
+	  padding: 15px 20px;
+	  img {
+		width: 100%;
+		max-width: 520px;
+		display: block;
+		border-radius: 0 0 3px 3px;
+		margin: 0 auto;
+		@media (min-width: 1010px) {
+		  margin: 0;
+		}
+	  }
+	}
+	.text-wrapper  {
+	  padding: 0 40px 20px 25px;
+	  h1 {
+		font-size: 1.9em;
+		text-transform: none;
+		letter-spacing: 0;
+		line-height: 1.5;
+		padding-top: 10px;
+		margin-bottom: 25px;
+		margin-top: 0;
+		@media (min-width: 1010px) {
+		  margin-top: 30px;
+		}
+	  }
+	  p {
+		margin-bottom: 15px;
+		&.small {
+		  margin-bottom: 30px;
+		  font-size: 0.8em;
+		  font-style: italic;
+		  color: #999;
+		}
+	  }
+	}
+  }
+
+  .stats-wrapper {
+	text-align: center;
+	margin-bottom: 30px;
+	p {
+	  font-size: 1.2em;
+	}
+	.stats {
+	  text-transform: uppercase;
+	  p {
+		font-size: 1.7em;
+		letter-spacing: 0.05em;
+		font-weight: 600;
+	  }
+	  span {
+		color: #51A9AB;
+	  }
+	}
+  }
+
+  .reviews {
+    .review {
+	  text-align: center;
+	  padding: 0 30px;
+	  margin-bottom: 30px;
+	  @media (min-width: 768px) {
+		margin-bottom: 0;
+	  }
+	  img {
+		width: 80px;
+		display: block;
+		margin: 0 auto 15px auto;
+	  }
+      p {
+		font-size: 0.8em;
+        &.name {
+          margin-bottom: 5px;
+		  display: block;
+		  font-weight: 600;
+        }
+      }
+      .type {
+        display: block;
+        font-style: italic;
+        font-size: 0.8em;
+        color: @grey;
+        margin-bottom: 5px;
+      }
+    }
+  }
+
+  .test-button {
+	text-align: center;
+	margin: 10px 0 60px 0;
+  }
+
+  .other-actions {
+	margin: 30px -15px 35px -15px;
+	h2 {
+	  font-size: 1.7em;
+	  margin-top: 27px;
+	  margin-bottom: 19px;
+	  text-align: center;
+	}
+	.action-wrapper {
+	  text-align: center;
+	  border-radius: 3px;
+	  padding: 15px;
+	  .action {
+		background-color: #F9F9F9;
+		padding: 30px;
+		img {
+		  width: 100%;
+		  max-width: 310px;
+		  @media (min-width: 1010px) {
+			margin-bottom: 30px;
+		  }
+		}
+		h3 {
+		  font-size: 1.1em;
+		}
+		p {
+		  font-size: 0.8em;
+		}
+	  }
+	}
+  }
+
+  .why-trust {
+    margin-bottom: 50px;
+    h2 {
+      text-align: center;
+      font-size: 1.7em;
+      margin: 27px 0 34px 0;
+    }
+    .trust-wrapper {
+      padding: 0 0 20px 0;
+      text-align: center;
+      .point-item {
+        .icon {
+          display: block;
+          width: 100%;
+          text-align: center;
+          margin-bottom: 15px;
+          img {
+            width: 70px;
+          }
+        }
+        .point {
+          margin-bottom: 20px;
+          padding: 0 15px 0 15px;
+          width: 100%;
+          h3 {
+            display: block;
+            font-size: 0.9em;
+            margin-top: 0;
+          }
+          .description {
+            display: block;
+            font-size: 0.8em;
+            line-height: 1.8;
+          }
+        }
+      }
+    }
+  }
+}

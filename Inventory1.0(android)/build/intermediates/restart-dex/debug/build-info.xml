@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="295103552482597"
+    token="5852347129171943287"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="318" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="331" />
+    <task
+        name="verifier"
+        duration="69" />
+
+    <artifact
+        location="D:\project\Android\Inventory1.1\build\outputs\apk\Inventory1.1-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="295103552482597"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\project\Android\Inventory1.1\build\outputs\apk\Inventory1.1-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

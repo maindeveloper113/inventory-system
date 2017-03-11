@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\sp_back_small.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable-sw800dp\\sp_back_small.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\btn_signin.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable-sw800dp\\btn_signin.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\sp_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable-sw800dp\\sp_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\et_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable-sw800dp\\et_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\et_small_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable-sw800dp\\et_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\edt_pass.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable-sw800dp\\edt_pass.png"
+    }
+]

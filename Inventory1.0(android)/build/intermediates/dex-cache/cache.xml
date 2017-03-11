@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_fd4b7a3936a45f72becd24f44145f9470c1ecbfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\picasso-2.3.2_48920c6598145cd78f179ea109cadb5f43cee23f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\android-query-full.0.26.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\android-query-full.0.26.7_83e6a392718adcc6abe36ccc7f312fe8ac82d86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\gcm_481a1fd26682def4259f44f49715b2bf73dd9bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\gesture-imageview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d57f9485512787530140769082f04a5e96ce0262">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\gesture-imageview_c72e8937824bba39dd51e7632ac4c56371d9804b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\gesture-imageview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d57f9485512787530140769082f04a5e96ce0262">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\gesture-imageview_c72e8937824bba39dd51e7632ac4c56371d9804b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\gcm_481a1fd26682def4259f44f49715b2bf73dd9bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_ef7699149c06908a0e709c35a9a79007179f56b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\android-support-v4_9bf4b9eef592d940e0cd6240614054664f9a7310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_ef7699149c06908a0e709c35a9a79007179f56b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\picasso-2.3.2_b5739f3ae0d6d9d140c0b075fdf30cf7242d55a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\android-support-v4_9bf4b9eef592d940e0cd6240614054664f9a7310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\picasso-2.3.2_b5739f3ae0d6d9d140c0b075fdf30cf7242d55a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\crittercism_v5_0_4_sdkonly.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="26cd4e86a2ff6c2a9a02ff94ea207a0531b60a02">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\crittercism_v5_0_4_sdkonly_7146c784fcf112042687d7b9f66b55f8f2310551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\gesture-imageview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d57f9485512787530140769082f04a5e96ce0262">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\gesture-imageview_a216668d6ad55bb579ba3227e0c3863106e3f325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\android-query-full.0.26.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\android-query-full.0.26.7_1379fd15f81bfa2036ab843db331c69ca0ac3a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\crittercism_v5_0_4_sdkonly.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="26cd4e86a2ff6c2a9a02ff94ea207a0531b60a02">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\crittercism_v5_0_4_sdkonly_7146c784fcf112042687d7b9f66b55f8f2310551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\gcm_3e6714ba55fe47119fe5c3a0a2e9a9ed2029b5c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\inventory\Inventory1.1\libs\android-query-full.0.26.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="D:\github\inventory\Inventory1.1\build\intermediates\pre-dexed\debug\android-query-full.0.26.7_1379fd15f81bfa2036ab843db331c69ca0ac3a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\crittercism_v5_0_4_sdkonly.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="26cd4e86a2ff6c2a9a02ff94ea207a0531b60a02">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\crittercism_v5_0_4_sdkonly_62689e14725d79b69d543d3a29c4a9a2e9c51723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\Inventory1.1\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="D:\project\Android\Inventory1.1\build\intermediates\pre-dexed\debug\android-support-v4_3bd594f3cdd83a50669903da8d36a129b270eebe.jar" />
+    </item>
+
+</items>

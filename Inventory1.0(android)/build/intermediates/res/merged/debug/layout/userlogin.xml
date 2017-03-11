@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/title_back_color"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="3">
+                <TextView
+                    android:id="@+id/txt_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/title_headr_size"
+
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@color/title_text_color"
+                    android:textSize="@dimen/title_text_size" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="10">
+                <Button
+                    android:id="@+id/btn_confirm"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/btn_upload_image"
+                    android:text="Confirm"
+                    android:textColor="@color/btnall_text_color"
+                    android:textSize="15dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/title_back_view" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:weightSum="3" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="0.7"
+                    android:orientation="horizontal" >
+
+                    <View
+                        android:layout_width="65dp"
+                        android:layout_height="1dp"
+                        android:layout_gravity="center"
+                        android:background="@color/title_back_color" />
+
+                    <TextView
+                        android:id="@+id/txt_welcome"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center"
+                        android:paddingBottom="4dp"
+                        android:text="WELCOME"
+                        android:textColor="#f8912a"
+                        android:textSize="25dp"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="65dp"
+                        android:layout_height="1dp"
+                        android:layout_gravity="center"
+                        android:background="@color/title_back_color" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="5"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_email"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="25dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/edt_mail"
+                        android:hint="Email"
+                        android:inputType="textEmailAddress"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingRight="48dp"
+                        android:singleLine="true"
+                        android:textColor="@color/login_edittext_text_color"
+                        android:textColorHint="@color/login_edittext_text_color"
+                        android:textSize="@dimen/edittext_size" />
+
+                    <EditText
+                        android:id="@+id/et_pass"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/edt_pass"
+                        android:hint="Password"
+                        android:inputType="textPassword"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingRight="48dp"
+                        android:singleLine="true"
+                        android:textColor="@color/login_edittext_text_color"
+                        android:textColorHint="@color/login_edittext_text_color"
+                        android:textSize="@dimen/edittext_size" />
+
+                    <Button
+                        android:id="@+id/btn_login"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/btn_signin"
+                        android:text="Sign in"
+                        android:textColor="@color/btnall_text_color"
+                        android:textSize="@dimen/btnall_text_size" />
+
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

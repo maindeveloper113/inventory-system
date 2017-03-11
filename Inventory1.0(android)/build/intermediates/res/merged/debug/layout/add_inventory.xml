@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/all_page_background">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:inputType="text"
+                android:ems="10"
+                android:id="@+id/txt_partnumber"
+                android:layout_marginTop="25dp"
+                android:hint="Part Number"
+                android:layout_below="@+id/image"
+                android:layout_alignLeft="@+id/txt_serialnumber"
+                android:layout_alignStart="@+id/txt_serialnumber"
+                android:textSize="12sp" />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:inputType="text"
+                android:layout_below="@+id/txt_partnumber"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:id="@+id/txt_serialnumber"
+                android:hint="Serial Number"
+                android:textSize="12sp" />
+
+            <EditText
+                android:inputType="textMultiLine"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:ems="10"
+                android:layout_below="@+id/txt_serialnumber"
+                android:layout_alignLeft="@+id/txt_serialnumber"
+                android:layout_alignStart="@+id/txt_serialnumber"
+                android:layout_marginTop="8dp"
+                android:gravity="top|left"
+                android:id="@+id/txt_description"
+                android:layout_alignRight="@+id/btn_serialnumber"
+                android:layout_alignEnd="@+id/btn_serialnumber"
+                android:scrollbars="vertical"
+                android:hint="Description"
+                android:textSize="12sp" />
+            <EditText
+                android:inputType="textMultiLine"
+                android:layout_height="100dp"
+                android:scrollbars="vertical"
+                android:ems="10"
+                android:gravity="top|left"
+                android:layout_below="@+id/txt_description"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
+                android:id="@+id/txt_remark"
+                android:hint="Remark"
+                android:layout_width="200dp"
+                android:textSize="12sp" />
+
+            <EditText
+                android:layout_height="40dp"
+                android:inputType="numberSigned"
+                android:ems="10"
+                android:layout_below="@+id/txt_remark"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
+                android:id="@+id/txt_quantity"
+                android:hint="Quantity"
+                android:layout_width="200dp"
+                android:textSize="12sp" />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:inputType="text|textPersonName"
+                android:ems="10"
+                android:layout_marginTop="8dp"
+                android:id="@+id/txt_location"
+                android:layout_below="@+id/txt_quantity"
+                android:layout_alignLeft="@+id/txt_quantity"
+                android:layout_alignStart="@+id/txt_quantity"
+                android:hint="Location"
+                android:textSize="12sp" />
+
+            <Button
+                android:text="Add"
+                android:layout_width="60dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/txt_location"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
+                android:id="@+id/btn_add"
+                android:background="@drawable/btn_upload_image" />
+
+
+
+            <Button
+                android:src="@drawable/take_photo"
+                android:layout_width="30dp"
+                android:id="@+id/btn_photo"
+                android:layout_height="40dp"
+                android:background="@drawable/take_photo"
+                android:layout_above="@+id/txt_partnumber"
+                android:layout_alignRight="@+id/btn_partnumber"
+                android:layout_alignEnd="@+id/btn_partnumber"
+                android:layout_alignLeft="@+id/btn_partnumber"
+                android:layout_alignStart="@+id/btn_partnumber" />
+
+            <ImageView
+                android:src="@drawable/profile_image"
+                android:layout_width="150dp"
+                android:layout_marginTop="8dp"
+                android:id="@+id/image"
+                android:layout_height="150dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:layout_height="40dp"
+                android:id="@+id/btn_serialnumber"
+                android:background="@drawable/take_photo"
+                android:layout_width="30dp"
+                android:layout_alignBottom="@+id/txt_serialnumber"
+                android:layout_toRightOf="@+id/txt_serialnumber"
+                android:layout_toEndOf="@+id/txt_serialnumber"
+                android:layout_marginLeft="29dp"
+                android:layout_marginStart="29dp" />
+
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="40dp"
+                android:id="@+id/btn_partnumber"
+                android:background="@drawable/take_photo"
+                android:layout_alignBottom="@+id/txt_partnumber"
+                android:layout_alignLeft="@+id/btn_serialnumber"
+                android:layout_alignStart="@+id/btn_serialnumber" />
+
+            <Spinner
+                android:id="@+id/spinner_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_location"
+                android:layout_toRightOf="@+id/txt_location"
+                android:layout_toLeftOf="@+id/spinner_description"
+                android:layout_toStartOf="@+id/spinner_description"
+                android:layout_alignBottom="@+id/txt_location" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner_description"
+                android:layout_alignTop="@+id/txt_description"
+                android:layout_toRightOf="@+id/txt_description"
+                android:layout_toEndOf="@+id/txt_description"
+                android:layout_alignBottom="@+id/txt_description" />
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

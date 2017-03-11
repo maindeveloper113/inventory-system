@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="all_page_background">#FFF</color>
+    <color name="title_text_color">#FFF</color>
+    <color name="title_back_view">#6b6b6b</color>
+    <color name="title_back_color">#fc9012</color>
+    
+    <color name="edittext_hint_color">#6b6b6b</color>
+    <color name="edittext_text_color">#6b6b6b</color>
+    <color name="login_edittext_text_color">#FFF</color>
+    <color name="btnall_text_color">#FFF</color>
+    <color name="download_textview_color">#666666</color>
+    <color name="btnmenu_text_color">#000000</color>
+    <color name="text_color">#000000</color>
+    <color name="radio_button_red">#FFF</color>
+    <color name="radio_button_green">#FFF</color>
+    <color name="radio_button_white">#FFF</color>
+
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+</resources>

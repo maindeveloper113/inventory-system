@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\confirm.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\confirm.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreen.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\mainscreen.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\add_inventory.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\add_inventory.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\tabitem.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\tabitem.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\custom_image_dialog.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\custom_image_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\view_inventory.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\view_inventory.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\view_detail_inventory.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\view_detail_inventory.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\layout\\userlogin.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\layout\\userlogin.xml"
+    }
+]

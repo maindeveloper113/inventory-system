@@ -1,0 +1,82 @@
+/* General */
+
+body {
+  padding: 0 15px;
+  @media (min-width: @screen-medium-min) {
+	padding: 0;
+  }
+}
+
+.welcome-container {
+  margin-left: 0;
+}
+
+.welcome-container-wrapper {
+  padding-right: 0;
+}
+
+/* Grid */
+
+.columns{
+  float:left;
+  margin:0 4.5% 0 0;
+  box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  @media all and (max-width: 768px){
+	float:none;
+	width:auto !important;
+	margin-right:0;
+  }
+  &.center{
+	float:none;
+	margin:0 auto !important;
+  }
+  &:last-child, .last {
+	margin-right:0;
+  }
+  &.one {
+	width: 4.20833333333%;
+  }
+  &.two {
+	width: 12.9166666667%;
+  }
+  &.three {
+	width: 21.625%;
+  }
+  &.four {
+	width: 30.3333333333%;
+  }
+  &.five {
+	width: 39.0416666667%;
+  }
+  &.six {
+	width: 47.75%;
+  }
+  &.seven {
+	width: 56.4583333333%;
+  }
+  &.eight {
+	width: 65.1666666667%;
+  }
+  &.nine {
+	width: 73.875%;
+  }
+  &.ten {
+	width: 82.5833333333%;
+  }
+  &.eleven {
+	width: 91.2916666667%;
+  }
+  &.twelve {
+	width: 100%;
+	margin-left: 0;
+  }
+}
+
+.constraint {
+  max-width: 1170px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0 2em;
+}

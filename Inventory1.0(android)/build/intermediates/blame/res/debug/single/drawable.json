@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_view_inventory.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\btn_view_inventory.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\all_page_background.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\all_page_background.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\img_green.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\img_green.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\sp_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\background_deshboard.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\background_deshboard.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\img_white.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\img_white.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\my_progress_indeterminate.xml",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\my_progress_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_image.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_mail.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\edt_mail.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_background.jpg",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\logo_background.jpg"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_signin.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\btn_signin.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\img_red.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\progress_bar.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logout.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\icon_logout.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\et_small_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\et_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_small_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\sp_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_inventory.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\btn_add_inventory.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_pass.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\edt_pass.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\et_back.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\et_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\take_photo.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\Inventory1.1\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_upload_image.png",
+        "source": "D:\\project\\Android\\Inventory1.1\\res\\drawable\\btn_upload_image.png"
+    }
+]

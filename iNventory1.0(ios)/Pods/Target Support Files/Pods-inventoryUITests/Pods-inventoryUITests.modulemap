@@ -1,0 +1,6 @@
+framework module Pods_inventoryUITests {
+  umbrella header "Pods-inventoryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
